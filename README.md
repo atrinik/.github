@@ -5,6 +5,6 @@ issue forms, pull-request template, contribution guidance, and security policy.
 A repository's local file takes precedence when it needs more specific
 instructions.
 
-The source of truth is
-[`atrinik/github-settings`](https://github.com/atrinik/github-settings). Do not
-edit the generated `atrinik/.github` repository directly.
+This repository is edited by hand through pull requests. It is no longer
+generated from `atrinik/github-settings`; that generator was retired on
+2026-11-14.
